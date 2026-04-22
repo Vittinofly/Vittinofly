@@ -4,12 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Always+learning+new+things;Building+my+future+in+tech" />
+</p>
+
 ---
 
 ## 👋 Sobre mim
 - 🇧🇷 Brasil, Goiás  
-- 🚀 Aprendendo programação por conta própria  
-- 🧠 Sempre buscando evoluir  
+- 🎓 Estudante de Engenharia de Software  
+- 🚀 Aprendendo sozinho, na prática  
+- 🧠 Focado em evolução  
 
 ---
 
