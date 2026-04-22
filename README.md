@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,git,vscode"/>
 </p>
 
 ---
