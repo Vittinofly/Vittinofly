@@ -10,7 +10,8 @@
 
 ## 👋 Sobre mim
 - 🇧🇷 Brasil, Goiás  
-- 🎓 Estudante de Engenharia de Software  
+- 🎓 Estudante de Engenharia de Software
+- 🌍 Participante ativo de eventos como **Campus Party, DevFest e JoinCommunity**.
 - 🚀 Aprendendo sozinho, na prática  
 - 🧠 Focado em evolução  
 
@@ -18,7 +19,7 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,python"/>
 </p>
 
 ---
@@ -35,6 +36,19 @@
 
 ---
 
+## 🏆 Conquistas & Certificações recentes
+
+Minha jornada é marcada pela busca ativa por conhecimento extra-curricular:
+
+* **Campus Party Goiás (CPGoiás4):** 33h de imersão presencial em tecnologia.
+* **DevFest Cerrado:** Participação na edição de 10 anos do maior evento Google da região.
+* **JoinCommunity 12ª Edição:** Conexão com as principais tendências do mercado.
+* **Congresso Internacional UniBRAS:** Palestras focadas em inovação e sociedade.
+
+> 📂 *Confira meu [repositório de certificados](https://github.com/Vittinofly/Certificados) para ver a lista completa.*
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -46,6 +60,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vittinofly&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
 </p>
+
+---
+
+"A melhor forma de prever o futuro é criá-lo."
 
 ---
 
