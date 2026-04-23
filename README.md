@@ -1,5 +1,3 @@
-<h1 align="center"> Victor Hugo </h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 </p>
