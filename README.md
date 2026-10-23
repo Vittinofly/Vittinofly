@@ -19,7 +19,7 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,python,Next.js,React,Tailwind CSS, Supabase, Lucide React"/>
 </p>
 
 ---
