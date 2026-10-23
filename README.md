@@ -52,16 +52,10 @@ Minha jornada é marcada pela busca ativa por conhecimento extra-curricular:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens Favoritas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vittinofly&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittinofly&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vittinofly&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
 </p>
 
 ---
