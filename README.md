@@ -32,6 +32,13 @@
 
 ---
 
+## 🛠️ Tecnologias que estou aprendendo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,supabase,mysql,postgres,git,github,vscode,python"/>
+</p>
+
+---
+
 ## 🏆 Conquistas & Certificações recentes
 
 Minha jornada é marcada pela busca ativa por conhecimento extra-curricular:
@@ -42,14 +49,6 @@ Minha jornada é marcada pela busca ativa por conhecimento extra-curricular:
 * **Congresso Internacional UniBRAS:** Palestras focadas em inovação e sociedade.
 
 > 📂 *Confira meu [repositório de certificados](https://github.com/Vittinofly/Certificados) para ver a lista completa.*
-
----
-
-## 📊 Linguagens Favoritas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittinofly&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-</p>
 
 ---
 
