@@ -17,13 +17,6 @@
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,supabase,mysql,postgres,git,github,vscode,python"/>
-</p>
-
----
-
 ## 📱 Contato
 <p align="center">
   <a href="https://www.instagram.com/y.ovictor/" target="_blank">
